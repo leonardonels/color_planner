@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>color_planner</name>
+  <version>0.0.1</version>
+  <description>Un nodo ROS2 C++</description>
+
+  <maintainer email="tuo@email.com">Il Tuo Nome</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+
+  <exec_depend>ament_index_python</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
