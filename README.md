@@ -24,4 +24,3 @@ ros2 launch planning launch.py
 Notes
 - The planner assumes the map provides left/right color labels for cones.
 - Add smoothing and collision checks as needed for vehicle integration.
-# cone_mapper
